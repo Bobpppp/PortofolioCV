@@ -1,0 +1,34 @@
+{
+    "name": "Bobby Harya Pramana - Electronics Engineer",
+    "description": "A dedicated and adaptable electronics engineer with strong expertise in embedded systems, IoT, PLC programming, and electronic circuit analysis. Experienced in STM32, Arduino, and ESP32 microcontroller programming, LoRa integration, PCB design, and 3D enclosure modeling. Skilled in developing real-time monitoring systems with Raspberry Pi and databases. Passionate about leveraging AI tools to enhance analysis and innovation in electronic systems.",
+    "profileImage": "images/profile.jpg",
+    "email": "bobby.harya03@gmail.com",
+    "phone": "+62 81252473465",
+    "socialMedia": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/bobby-harya-pramana"
+      },
+      {
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/bobbyharyap_/"
+      }
+    ],
+    "cv": {
+      "text": "Download CV",
+      "file": "docs/cv.pdf",
+      "icon": "fas fa-file-pdf"
+    },
+    "skills": [
+      { "name": "Embedded Systems", "icon": "fas fa-microchip", "level": 80 },
+      { "name": "IoT Systems", "icon": "fas fa-wifi", "level": 75 },
+      { "name": "PLC Programming", "icon": "fas fa-project-diagram", "level": 80 },
+      { "name": "PCB Design", "icon": "fas fa-desktop", "level": 75 },
+      { "name": "Circuit Analysis", "icon": "fas fa-bolt", "level": 80 },
+      { "name": "Arduino & ESP32", "icon": "fas fa-microchip", "level": 75 },
+      { "name": "Raspberry Pi", "icon": "fab fa-raspberry-pi", "level": 75 },
+      { "name": "AutoCAD Electrical", "icon": "fas fa-drafting-compass", "level": 70 },
+      { "name": "Artificial Intelligence Tools", "icon": "fas fa-robot", "level": 70 }
+    ]
+  }
+  

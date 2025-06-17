@@ -1,0 +1,21 @@
+[
+    {
+      "title": "Line Follower Robot",
+      "year": "2024",
+      "partner": "Politeknik Negeri Semarang",
+      "role": "Project Developer",
+      "description": "Designed and built a fully autonomous line follower robot using infrared sensors and microcontroller programming. The system was optimized for accurate path tracking, stable turning, and obstacle avoidance, making it suitable for basic industrial automation simulations.",
+      "image": "images/linefollower.jpg",
+      "link": "#"
+    },
+    {
+      "title": "Animal Tracking Collar with GPS and SIM800L",
+      "year": "2024",
+      "partner": "Politeknik Negeri Semarang",
+      "role": "Project Developer",
+      "description": "Developed a wearable animal tracking system using GPS and SIM800L modules to monitor location data remotely via SMS. The device was designed for farm and wildlife monitoring, offering real-time position tracking and low-power operation for extended field use.",
+      "image": "images/animaltracking.jpg",
+      "link": "#"
+    }
+  ]
+  
